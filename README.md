@@ -1,5 +1,5 @@
-### Hi there 👋
-Estou Aprendendo CSS e SQL
+### Hello World, me chamo Bruno Abraão M. Lima👋
+S
 <!--
 **Bruno-Abraao-Lima/Bruno-Abraao-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
